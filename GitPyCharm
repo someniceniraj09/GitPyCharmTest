@@ -1,0 +1,16 @@
+import mathlib
+
+def test_cals_square_1():
+	result = mathlib.cals_square(5)
+	assert result ==25
+	
+	
+def test_cals_square_1():
+	result = mathlib.cals_square(9)
+	assert result ==81
+	
+	
+def test_cals_square_1():
+	result = mathlib.cals_square(100)
+	assert result ==100
+	
