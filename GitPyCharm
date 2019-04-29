@@ -9,7 +9,7 @@ def test_cals_square_1():
 	result = mathlib.cals_square(9)
 	assert result ==81
 	
-	
+	scssfggsgg
 def test_cals_square_1():
 	result = mathlib.cals_square(100)
 	assert result ==100
